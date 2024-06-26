@@ -1,12 +1,12 @@
-# Police Shootings in the US - Data Analysis Project
+# 🚔 Police Shootings in the US - Data Analysis Project
 
-**Project Overview**
+## **Project Overview**
 
-Since January 1, 2015, [The Washington Post](https://www.washingtonpost.com/) has been diligently collecting data on fatal shootings by police officers in the United States that occurred while the officers were on duty. This data analysis project focuses on examining and understanding this comprehensive database, shedding light on the important issue of police shootings in the country.
+📅 Since January 1, 2015, [The Washington Post](https://www.washingtonpost.com/) has been diligently collecting data on fatal shootings by police officers in the United States that occurred while the officers were on duty. This data analysis project focuses on examining and understanding this comprehensive database, shedding light on the important issue of police shootings in the country.
 
-**Data Collection and Sources**
+## **Data Collection and Sources**
 
-The Washington Post's database of police shootings is the result of extensive data collection efforts and collaboration with various sources. The following are key aspects of data collection and sources:
+📊 The Washington Post's database of police shootings is the result of extensive data collection efforts and collaboration with various sources. The following are key aspects of data collection and sources:
 
 - **Start Date:** The data collection effort began on January 1, 2015, providing a substantial timeframe for analysis.
 
@@ -16,26 +16,25 @@ The Washington Post's database of police shootings is the result of extensive da
 
 - **Additional Reporting:** In many cases, The Washington Post conducts additional reporting to supplement the available information, ensuring the accuracy and completeness of the data.
 
-**Project Goals**
+## **Project Goals**
 
-The primary goals of this data analysis project are as follows:
+🎯 The primary goals of this data analysis project are as follows:
 
 1. **Understanding Police Shootings:** Analyzing the data to gain insights into the patterns and trends of police shootings in the US. This includes examining factors such as race, age, and cities.
 
 2. **Identifying Disparities:** Exploring potential disparities in police shootings, particularly in terms of race, to raise awareness about this critical issue.
 
 
-**Tools and Techniques**
+## **Tools and Techniques**
 
-This project will utilize various tools and techniques for data analysis, including:
+🛠️ This project will utilize various tools and techniques for data analysis, including:
 
 - Python for data manipulation and analysis using libraries like Pandas and NumPy.
 - Data visualization libraries such as Matplotlib, Plotly and Seaborn to create informative plots and charts.
 - Jupyter Notebook for code development and documentation.
 
-
-
 ## Conclusion
+
 - **Poverty Rate and Graduation Rate Relationship**: An inverse relationship between the Poverty Rate and High School Graduation Rate is evident in the data. Specifically, areas with lower poverty rates tend to have higher rates of high school graduation. This relationship is vividly illustrated through data visualizations within the project.
 - **Gender Disparities in Police-Related Deaths**: The analysis highlights a significant gender disparity in police-related fatalities. Males are disproportionately affected, comprising a larger portion of the victims compared to females. Additionally, the analysis reveals that male victims tend to be of older ages. The box plot analysis underscores that both male and female victims share a common median age at which they are most vulnerable to such incidents.
 - **Armed vs. Unarmed Victims**: The data analysis reveals a noteworthy finding—approximately 93.23% of individuals fatally shot by the police were armed. This statistic suggests that a substantial proportion of these incidents may have occurred in situations where law enforcement officers perceived a threat to public safety or the safety of those around individuals carrying weapons.
